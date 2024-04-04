@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint.popup/dialog/delete_content_dialog/usage.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/delete_content_dialog/assets/21379657/78c11b69-e831-4882-8cbb-dfa47bf39cbb)
 

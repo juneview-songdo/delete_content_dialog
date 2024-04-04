@@ -1,7 +1,7 @@
 name: delete_content_dialog
-description: "Description here"
+description: "dialog for delete content"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/delete_content_dialog
 
 version: 1.0.0+1
 
